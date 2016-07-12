@@ -30,4 +30,4 @@
      }
      
  ```
- 7. [Tutorials](http://www.typescriptlang.org/docs/tutorial.html)
+See [Tutorials](http://www.typescriptlang.org/docs/tutorial.html) ...
